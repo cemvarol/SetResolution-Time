@@ -1,5 +1,3 @@
-cd\
-mkdir cems
 
 
 
