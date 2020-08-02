@@ -1,0 +1,36 @@
+copy C:\cemo\ResTime.ps1 \\192.168.1.101\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.102\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.103\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.104\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.104\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.105\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.106\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.107\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.108\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.109\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.110\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.111\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.112\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.113\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.114\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.115\c$\QA\ResTime.ps1
+copy C:\cemo\ResTime.ps1 \\192.168.1.116\c$\QA\ResTime.ps1
+
+
+
+copy C:\cemo\copy.bat \\192.168.1.101\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.102\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.103\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.104\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.105\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.106\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.107\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.108\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.109\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.110\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.111\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.112\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.113\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.114\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.115\c$\Users\Admin\Desktop\RunMe.bat
+copy C:\cemo\copy.bat \\192.168.1.116\c$\Users\Admin\Desktop\RunMe.bat
