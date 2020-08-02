@@ -1,1 +1,1 @@
-# SetResolution.ps1
+# SetResolution and Time Settings
