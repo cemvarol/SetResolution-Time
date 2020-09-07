@@ -1,0 +1,11 @@
+GoToMyPC --- VNC
+
+Append this to the end
+
+ -password=password61
+
+was like that, 
+"C:\Program Files (x86)\TightVNC\tvnviewer.exe" 192.168.1.101
+
+make it like that down below, 
+"C:\Program Files (x86)\TightVNC\tvnviewer.exe" 192.168.1.101 -password=password61
