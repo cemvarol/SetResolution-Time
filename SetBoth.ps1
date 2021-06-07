@@ -1,6 +1,6 @@
 
 
-
+mkdir c:\cems
 $url1 = "raw.githubusercontent.com/cemvarol/SetResolution-Time/master/SetTime.ps1"
 $output1 = "C:\cems\SetTime.ps1"
 Invoke-WebRequest -Uri $url1 -OutFile $output1
