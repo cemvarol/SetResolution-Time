@@ -11,3 +11,6 @@ Invoke-WebRequest -Uri $url2 -OutFile $output2
 
 Start-Process Powershell.exe -Argumentlist "-file C:\cems\SetTime.ps1"
 Start-Process Powershell.exe -Argumentlist "-file C:\cems\setResolution.ps1"
+
+
+
